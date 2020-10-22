@@ -40,7 +40,11 @@ while True:
     if each_word == "sad":
       feelings_list.append("annoyed")
       encouragement_list.append("stop what you are doing and breath in and out")
-      counter += 1  
+      counter += 1
+    if each_word == "useless":
+      feelings_list.append("useless")
+      encouragement_list.append("you are more useful than annoying ads that companies spend thousands on")
+      counter += 1
       
     if counter == 0:
 
