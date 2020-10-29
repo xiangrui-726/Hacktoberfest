@@ -56,7 +56,7 @@ while True:
       
     if counter == 0:
 
-      output = "Sorry I don't really understand. Please use different words?"
+      output = "Sorry I don't really understand. Could you try using a different word?"
 
   elif counter == 1:
     
