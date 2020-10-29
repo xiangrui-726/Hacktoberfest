@@ -45,6 +45,14 @@ while True:
       feelings_list.append("useless")
       encouragement_list.append("You are more useful than annoying ads that companies spend thousands on!! I'm sure someone knows your worth! Stay happy or maybe talk to a friend!")
       counter += 1
+    if each_word == "inferior":
+      feelings_list.append("inferior")
+      encouragement_list.append("Its alright. Although you may feel inferior to some of your other classmates, you shouldn't be comparing yourselves to them and you should work on how to better improve yourself!")
+      counter += 1
+    if each_word == "disappointed"
+      feelings_list.append("disappointed")
+      encouragement_list.append("It's natural that you may feel disappointed by your performance this time around, but I'm sure with hard work and determination you can do better next year!")
+      counter += 1
       
     if counter == 0:
 
